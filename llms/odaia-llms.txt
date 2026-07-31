@@ -1,0 +1,73 @@
+# ODAIA
+
+> ODAIA is the Commercial Intelligence Platform for pharma. It replaces manual analysis and static segmentation with real-time, predictive insights — helping field, marketing, and ops teams identify the right healthcare professionals and act on opportunities faster.
+
+## Platform
+- [Platform Overview](https://www.odaia.ai/platform-overview): How ODAIA's commercial intelligence engine unifies sales, marketing, and field data into real-time, actionable insights.
+- [Veeva Integration](https://www.odaia.ai/integrations/veeva): How ODAIA connects with Veeva CRM to surface insights directly in existing rep workflows.
+
+## Products
+- [ODAIA Field](https://www.odaia.ai/products/field): Real-time HCP prioritization, pre-call insights, and mobile call list access for field reps.
+- [Marketing Intelligence](https://www.odaia.ai/products/marketing-intelligence): Campaign performance tracking, HCP engagement insights, and channel optimization for brand teams.
+- [Opportunity Analysis](https://www.odaia.ai/opportunity-analysis): Identification, scoring, and prioritization of untapped commercial opportunities.
+
+## Solutions
+- [Engagement Intelligence](https://www.odaia.ai/solutions/engagement-intelligence): Solutions for improving HCP engagement quality and coverage.
+- [Targeting Intelligence](https://www.odaia.ai/solutions/targeting-intelligence): Dynamic, real-time HCP targeting and segmentation, replacing static annual refreshes.
+- [For Brand Marketers](https://www.odaia.ai/solutions/brand-marketers): Campaign intelligence and Rx-focused customer journey optimization for marketing leaders.
+
+## Case Studies
+- [All Case Studies](https://www.odaia.ai/case-studies): Index of ODAIA customer outcomes across field, marketing, and targeting.
+- [Marketing Intelligence Case Study](https://www.odaia.ai/case-studies/marketing-intelligence)
+- [Field: Top 10 Global Pharma](https://www.odaia.ai/case-studies/field-top10-pharma)
+- [Dynamic Targeting Case Study](https://www.odaia.ai/case-studies/dynamic-targeting)
+
+## Resources
+- [Blog](https://www.odaia.ai/blog): ODAIA's commercial intelligence blog for pharma field, marketing, and ops teams.
+- [Guides](https://www.odaia.ai/guides): In-depth guides on commercial intelligence topics.
+- [Dynamic Targeting Guide for Pharma](https://www.odaia.ai/guides/dynamic-targeting-pharma)
+- [Resource Hub](https://www.odaia.ai/resource-hub): Central index of ODAIA content and downloadable resources.
+- [Customers](https://www.odaia.ai/customers): Overview of pharma companies using ODAIA.
+
+## Recent Blog Posts
+- [Pharma AI Launch Excellence](https://www.odaia.ai/post/pharma-ai-launch-excellence)
+- [Marketing Intelligence Product Updates](https://www.odaia.ai/post/marketing-intelligence-product-updates)
+- [From HCP Marketing Segments to Journeys](https://www.odaia.ai/post/hcp-marketing-segments-to-journeys)
+- [Pharma Leadership: Fix Your Targeting](https://www.odaia.ai/post/pharma-leadership-fix-targeting)
+- [Sales Reps and Dynamic Targeting](https://www.odaia.ai/post/sales-rep-dynamic-targeting)
+- [Engineering: Karpenter Memory Optimization](https://www.odaia.ai/post/engineering-karpenter-memory-optimization)
+- [Engineering: Cutting Processing Time](https://www.odaia.ai/post/engineering-cutting-processing-time)
+- [2024 Year in Review](https://www.odaia.ai/post/year-in-review-2024)
+- [Executing Your AI Journey](https://www.odaia.ai/post/executing-your-ai-journey)
+- [Ensuring AI Adoption in Pharma](https://www.odaia.ai/post/ensure-ai-adoption-pharma)
+- [AI Pharma Guide](https://www.odaia.ai/post/ai-pharma-guide)
+- [AI-Driven Customer Journey Mapping in Biopharma](https://www.odaia.ai/post/ai-driven-customer-journey-mapping-in-biopharma)
+- [The Rise of Customer Science in Pharma](https://www.odaia.ai/post/the-rise-of-customer-science-in-pharma-to-predict-hcp-and-patient-journeys)
+- [What to Expect in 2023 and Beyond: Pharma AI and Predictive Analytics](https://www.odaia.ai/post/what-to-expect-in-2023-and-beyond-pharma-ai-and-predictive-analytics)
+
+## Company
+- [About](https://www.odaia.ai/about): ODAIA's mission, team, and company background.
+- [Careers](https://www.odaia.ai/careers): Open roles at ODAIA.
+- [Contact](https://www.odaia.ai/contact)
+- [Humans of ODAIA](https://www.odaia.ai/humans-of-odaia): Employee spotlight series.
+- [Engineers of ODAIA](https://www.odaia.ai/engineers-of-odaia): Engineering team spotlight series.
+- [Interns of ODAIA](https://www.odaia.ai/interns-of-odaia): Internship program spotlight series.
+
+## Press
+- [ODAIA + Veeva AI Partnership Announcement](https://www.odaia.ai/press/odaia-veeva-ai-partnership-announcement)
+- [Pharma AI Agent + Veeva Announcement](https://www.odaia.ai/press/pharma-ai-agent-veeva-announcement)
+- [Marketing Orchestration for Pharma Announcement](https://www.odaia.ai/press/marketing-orchestration-pharma-announcement)
+- [2024 Everest Peak Matrix Announcement](https://www.odaia.ai/press/2024-everest-peak-matrix-announcement)
+- [Series B Funding Announcement](https://www.odaia.ai/press/series-b-funding-announcement)
+
+## Get Started
+- [Book a Discovery Call](https://www.odaia.ai/book-a-discovery-call): Schedule time with the ODAIA team.
+
+## Optional
+- [Access Our Demo Video](https://www.odaia.ai/lc/access-our-demo-video): Gated demo video request.
+- [Commercial Blueprint](https://www.odaia.ai/lc/commercial-blueprint): Gated resource download.
+- [AI Readiness Assessment](https://www.odaia.ai/lc/ai-readiness-assessment): Gated assessment tool.
+- [Everest Matrix Report Download](https://www.odaia.ai/lc/everest-matrix-report-download): Gated analyst report download.
+- [Pharma AI Playbook Webinar](https://www.odaia.ai/lp/odw/pharma-ai-playbook-webinar): Gated webinar registration.
+- [AI Impact Panel Discussion](https://www.odaia.ai/lp/odw/access-ai-impact-panel-discussion): Gated panel discussion access.
+- [Download Case Study](https://www.odaia.ai/download-case-study): Gated case study download.

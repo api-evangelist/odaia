@@ -1,8 +1,26 @@
 aid: odaia
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/odaia.png
 name: ODAIA
-description: 'ODAIA is a company surfaced as a portfolio company of threshold-ventures and added to the
-  API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'ODAIA is a commercial intelligence platform for the pharmaceutical
+  industry, using AI to replace manual analysis and static annual segmentation with
+  real-time, predictive insights. Its products (ODAIA Field, Marketing Intelligence,
+  and Opportunity Analysis) help pharma field reps, brand marketers, and commercial
+  operations teams identify the right healthcare professionals (HCPs), prioritize
+  outreach, and surface untapped prescription opportunities. ODAIA integrates with
+  Veeva CRM to deliver insights directly inside existing rep workflows. It is a
+  Toronto-based, enterprise-focused SaaS vendor backed by Threshold Ventures; the
+  product is sold via sales/discovery calls rather than a self-service public API.'
 url: https://raw.githubusercontent.com/api-evangelist/odaia/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +30,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Ai
+- Pharmaceutical
+- Life Sciences
+- Commercial Intelligence
+- Healthcare
+- Analytics
+- SaaS
+- HCP Engagement
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,22 @@ maintainers:
 common:
 - type: Website
   url: https://www.odaia.ai/
+- type: Blog
+  url: https://www.odaia.ai/blog
+- type: About
+  url: https://www.odaia.ai/about
+- type: Support
+  url: https://www.odaia.ai/contact
+- type: PrivacyPolicy
+  url: https://www.odaia.ai/privacy-policy
+- type: TrustCenter
+  url: https://trust.odaia.ai/
+- type: LLMsTxt
+  url: llms/odaia-llms.txt
+- type: DomainSecurity
+  url: security/odaia-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
